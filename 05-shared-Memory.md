@@ -550,4 +550,4 @@ Can guests use separate, non-overlapping regions?
 
 ---
 
-*These notes are based on the QNX Hypervisor Shared Devices lesson. Related topics (Virtual Devices, Communication, Pass-Through, Safety) are covered in separate lessons.*
+*These notes are based on the QNX Hypervisor Shared Devices lesson. Related topics (Virtual Devices, Communication, Pass-Through, Safety) are covered in separate lessons.* 
